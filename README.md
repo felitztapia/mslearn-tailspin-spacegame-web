@@ -1,3 +1,4 @@
+[![Build Status](https://felitztapia.visualstudio.com/Space%20Game%20web/_apis/build/status/felitztapia.mslearn-tailspin-spacegame-web?branchName=master)](https://felitztapia.visualstudio.com/Space%20Game%20web/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
